@@ -1,0 +1,36 @@
+1. Instaloj projektin 
+2. Instaloj paketene  stilizimit per Next.js npx shadcn@latest init - https://ui.shadcn.com/docs/components/button
+3.npm install -g npm@11.2.0
+4. pnpm dlx shadcn@latest add button
+5.HyperUI.dev (UI sample) - https://www.hyperui.dev/components/marketing/banners
+6. Use Clerk for Authentication - https://clerk.com/docs/quickstarts/nextjs
+  6.1 Create Application - choose how i want
+  6.2 Create a new aplication
+  6.3 npm install @clerk/nextjs
+  6.4 creatte a .env.local in root 
+  6.5 Vendos </ClerkProvider> in layout.js
+7.  npm install recharts
+8. Du structer in Eraser.io -  https://app.eraser.io/workspace/Qwv9S56YC7sv2lkxzJGG 
+9. Lucide Icons 
+10. I am using Neon https://console.neon.tech/app/projects
+11. I am using Drizzle https://orm.drizzle.team/docs/get-started/neon-new
+12. For database use neon npm i drizzle-orm @neondatabase/serveless (me emailin learning)
+13. For drizzle npm i -D drizzle-kit  (me emailin learning)
+14. db name : myspendsappdb 
+15. npm run db:push dergon te dhneat ne db
+16. npm run db:studio -> Nxjerr linkun e db (running in: https://local.drizzle.studio)
+17. This is the database: https://local.drizzle.studio/
+
+18. Instalime: npm install next-themes
+19. npm install next-themes
+20. npm install sonner - for toast notifications 
+21. npm install recharts - pakete per perdorimine  grafikeve
+22. npm install openai
+23. npm install emoji-picker-react
+24. npm install @radix-ui/react-dialog
+
+db-key: postgresql://myspendsappdb_owner:npg_R0hkGCXg3dcx@ep-lively-mouse-a5t3w87d-pooler.us-east-2.aws.neon.tech/myspendsappdb?sslmode=require
+
+
+
+
