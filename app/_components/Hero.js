@@ -9,15 +9,17 @@ const Hero = () => {
         <div className="mx-auto max-w-prose text-center">
           <h1 className="text-3xl font-extrabold sm:text-4xl">
           Welcome to  <strong className="text-yellow-300"> My Spends App!</strong>
-            
           </h1>
-
+         
           <p className="mt-4 text-lg text-pretty sm:text-xl/relaxed text-gray-200">
           Manage your expenses with ease and organization! <br/> My Spends helps you record, analyze, and control your budget in real time.
           </p>
 
           <Image src='/dashboard.png' alt='dashboard'
           width={500} height={300} className="mx-auto mt-8 rounded-2xl" />
+           <h4 className="text-3xl font-extrabold sm:text-2xl">
+         My Spends App |by <strong className="text-yellow-300"> Klea Dushku</strong>
+          </h4>
         </div>
       </div>
     </section>
